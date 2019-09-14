@@ -1,0 +1,36 @@
+Title: IPhone X
+
+----
+
+Cover:
+
+- nice-colors-ugly-plant.jpg
+
+----
+
+Duration: 01:08
+
+----
+
+Description: They call me Dr. Greenthumb.
+
+----
+
+Box1:
+
+에루어는 규칙을 통해 흥미로운 이미지를 생산해내는 일러스트레이션 플랫폼이다. 프로젝트마다 특정한 규칙이나 장치를 고안해 이미지를 만들며, 일러스트레이션에 관한 담론을 다룬다. 에루어의 2019년 프로젝트는 ‘CATvsDOG’였다. ‘CATvsDOG’는 한국 일러스트레이터 100인이 각 50명씩 CAT팀 또는 DOG팀으로 나누어져.
+
+Collaboration:
+Production:
+
+----
+
+Box2: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/355703370?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
+
+----
+
+Tags: plants
+
+----
+
+Headline: 
